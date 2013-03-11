@@ -22,13 +22,13 @@ h2. Examples and Instructions
 
 These examples are also included in the download.
 
-* "http://slidesjs.com/":http://slidesjs.com/
-* "Images with captions":http://slidesjs.com/examples/images-with-captions/
-* "Linking":http://slidesjs.com/examples/linking/
-* "Product":http://slidesjs.com/examples/product/
-* "Multiple slideshows":http://slidesjs.com/examples/multiple/
-* "Simple (unstyled)":http://slidesjs.com/examples/simple/
-* "Standard":http://slidesjs.com/examples/standard/
+* "http://archive.slidesjs.com/":http://archive.slidesjs.com/
+* "Images with captions":http://archive.slidesjs.com/examples/images-with-captions/
+* "Linking":http://archive.slidesjs.com/examples/linking/
+* "Product":http://archive.slidesjs.com/examples/product/
+* "Multiple slideshows":http://archive.slidesjs.com/examples/multiple/
+* "Simple (unstyled)":http://archive.slidesjs.com/examples/simple/
+* "Standard":http://archive.slidesjs.com/examples/standard/
 
 h2. Changelog
 
